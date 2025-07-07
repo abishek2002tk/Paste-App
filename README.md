@@ -182,7 +182,8 @@ export default {
   plugins: [],
 }
 ```
-
+🚀 Live Demo
+🔗 View Project
 ---
 
 ## Conclusion
