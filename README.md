@@ -184,7 +184,7 @@ export default {
 ```
 🚀 Live Demo
 </br>
-🔗 View Project
+🔗 paste-app-blue-rho.vercel.app
 ---
 
 ## Conclusion
